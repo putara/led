@@ -19,7 +19,7 @@ Create your own LED font.
 
 ### Windows
 
-1. Open FontForge console
+1. Open FontForge interactive console
 1. Run `ffpython led.py`
 
 ### Linux/Mac
